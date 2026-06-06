@@ -2,7 +2,7 @@
 
 ## 永久发布域名
 [发布网址1](https://fby.ccwu.cc)
-[发布网址2](https://fabu.ccwu.cc)
+[发布网址2](https://www.fabu.cc.cd)
 
 ## 可用域名智能检测
 - [域名检测1](https://001.fbjc.ccwu.cc)
